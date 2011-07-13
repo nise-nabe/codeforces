@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="finish00-"/>
+	<classpathentry kind="src" path="finish10-"/>
+	<classpathentry kind="src" path="finish20-"/>
+	<classpathentry kind="src" path="finish30-"/>
+	<classpathentry kind="src" path="Others"/>
+	<classpathentry kind="src" path="finish40-"/>
+	<classpathentry kind="src" path="finish50-"/>
+	<classpathentry kind="src" path="finish60-"/>
+	<classpathentry kind="src" path="finish70-"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
