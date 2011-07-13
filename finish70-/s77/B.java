@@ -1,3 +1,5 @@
+package s77;
+
 import java.util.*;
 
 public class B {

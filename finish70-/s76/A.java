@@ -1,3 +1,4 @@
+package s76;
 import java.util.*;
 
 public class A {
