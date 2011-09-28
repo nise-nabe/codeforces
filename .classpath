@@ -10,6 +10,7 @@
 	<classpathentry kind="src" path="finish50-"/>
 	<classpathentry kind="src" path="finish60-"/>
 	<classpathentry kind="src" path="finish70-"/>
+	<classpathentry kind="src" path="finish80-"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
